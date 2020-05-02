@@ -12,8 +12,8 @@ Here i will upload an image
 
 
 **The assesment of model performance:**
-..1. Accuracy
-..2. F1-Score
+.. 1. Accuracy
+.. 2. F1-Score
 
 
 ****
